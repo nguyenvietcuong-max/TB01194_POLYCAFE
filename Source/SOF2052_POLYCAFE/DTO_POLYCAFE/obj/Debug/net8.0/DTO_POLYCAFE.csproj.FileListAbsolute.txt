@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\DTO_POLYCAFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\DTO_POLYCAFE.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\DTO_POLYCAFE.AssemblyInfo.cs
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\DTO_POLYCAFE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.deps.json
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.pdb
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\DTO_POLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\refint\DTO_POLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\DTO_POLYCAFE.pdb
+C:\Users\Admin\Downloads\POLY_CAFE\DTO_POLYCAFE\obj\Debug\net8.0\ref\DTO_POLYCAFE.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.AssemblyInfo.cs
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\bin\Debug\net8.0\DAL_POLLYCAFE.deps.json
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\bin\Debug\net8.0\DAL_POLLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\bin\Debug\net8.0\DAL_POLLYCAFE.pdb
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.pdb
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLL.735133A9.Up2Date
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\refint\DAL_POLLYCAFE.dll
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\DAL_POLLYCAFE.pdb
+C:\Users\Admin\Downloads\POLY_CAFE\DAL_POLLYCAFE\obj\Debug\net8.0\ref\DAL_POLLYCAFE.dll

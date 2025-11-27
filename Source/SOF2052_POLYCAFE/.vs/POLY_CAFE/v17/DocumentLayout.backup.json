@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\poly_cafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|solutionrelative:poly_cafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\poly_cafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|solutionrelative:poly_cafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2067D1A7-F122-436E-8C82-105EA593C9A8}|DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\dal_pollycafe\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2067D1A7-F122-436E-8C82-105EA593C9A8}|DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj|solutionrelative:dal_pollycafe\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B3930B-653F-4668-B52F-427BC9CE7BD0}|BLL_POLYCAFE\\BLL_POLYCAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\bll_polycafe\\bll_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3930B-653F-4668-B52F-427BC9CE7BD0}|BLL_POLYCAFE\\BLL_POLYCAFE.csproj|solutionrelative:bll_polycafe\\bll_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\poly_cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|solutionrelative:poly_cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\poly_cafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|solutionrelative:poly_cafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2067D1A7-F122-436E-8C82-105EA593C9A8}|DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\dal_pollycafe\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2067D1A7-F122-436E-8C82-105EA593C9A8}|DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj|solutionrelative:dal_pollycafe\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A0AD6-0199-4F53-8C8D-3C64948B7BB3}|DTO_POLYCAFE\\DTO_POLYCAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\dto_polycafe\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A0AD6-0199-4F53-8C8D-3C64948B7BB3}|DTO_POLYCAFE\\DTO_POLYCAFE.csproj|solutionrelative:dto_polycafe\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A0AD6-0199-4F53-8C8D-3C64948B7BB3}|DTO_POLYCAFE\\DTO_POLYCAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\dto_polycafe\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A0AD6-0199-4F53-8C8D-3C64948B7BB3}|DTO_POLYCAFE\\DTO_POLYCAFE.csproj|solutionrelative:dto_polycafe\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\poly_cafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|solutionrelative:poly_cafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|c:\\users\\admin\\downloads\\poly_cafe\\poly_cafe\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB501E54-D97A-4A76-B258-D0BA3FE72C9C}|POLY_CAFE\\POLY_CAFE.csproj|solutionrelative:poly_cafe\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DBUtil.cs",
+              "RelativeDocumentMoniker": "DAL_POLLYCAFE\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DBUtil.cs",
+              "RelativeToolTip": "DAL_POLLYCAFE\\DBUtil.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T04:14:49.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_NhanVien.cs",
+              "RelativeDocumentMoniker": "BLL_POLYCAFE\\BLL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_NhanVien.cs",
+              "RelativeToolTip": "BLL_POLYCAFE\\BLL_NhanVien.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T04:02:49.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "POLY_CAFE\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmNhanVien.cs",
+              "RelativeToolTip": "POLY_CAFE\\frmNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T04:00:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "POLY_CAFE\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "POLY_CAFE\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:36:04.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmLogin.cs",
+              "RelativeDocumentMoniker": "POLY_CAFE\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmLogin.cs [Design]",
+              "RelativeToolTip": "POLY_CAFE\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:35:15.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\Program.cs",
+              "RelativeDocumentMoniker": "POLY_CAFE\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\Program.cs",
+              "RelativeToolTip": "POLY_CAFE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:20:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DTO_POLYCAFE\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\NhanVien.cs",
+              "RelativeToolTip": "DTO_POLYCAFE\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:35:48.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO_POLYCAFE\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\Class1.cs",
+              "RelativeToolTip": "DTO_POLYCAFE\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:35:47.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "DAL_POLLYCAFE\\DAL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_NhanVien.cs",
+              "RelativeToolTip": "DAL_POLLYCAFE\\DAL_NhanVien.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:27:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "POLY_CAFE\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmLogin.Designer.cs",
+              "RelativeToolTip": "POLY_CAFE\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:27:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmLogin.cs",
+              "RelativeDocumentMoniker": "POLY_CAFE\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\frmLogin.cs",
+              "RelativeToolTip": "POLY_CAFE\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:22:30.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
