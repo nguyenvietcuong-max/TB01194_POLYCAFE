@@ -36,5 +36,71 @@ namespace BLL_POLYCAFE
                 return false;
             }
         }
+        public List<NhanVien> GetNhanVienList()
+        {
+            return DAL_NhanVien.selectAll();
+        }
+
+
+        public string InsertNhanVien(NhanVien nv)
+        {
+            try
+            {
+                nv.MaNhanVien = DAL_NhanVien.generateMaNhanVien();
+                if (string.IsNullOrEmpty(nv.MaNhanVien))
+                {
+                    return "Mã nhân viên không hợp lệ.";
+                }
+                if (DAL_NhanVien.checkEmailExists(nv.Email))
+                {
+                    return "Email đã tồn tại.";
+                }
+                DAL_NhanVien.insertNhanVien(nv);
+                return string.Empty;
+            }
+            catch (Exception ex)
+            {
+                //return "Thêm mới không thành công.";
+                return "Lỗi: " + ex.Message;
+            }
+        }
+
+        public string UpdateNhanVien(NhanVien nv)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(nv.MaNhanVien))
+                {
+                    return "Mã nhân viên không hợp lệ.";
+                }
+
+                DAL_NhanVien.updateNhanVien(nv);
+                return string.Empty;
+            }
+            catch (Exception ex)
+            {
+                //return "Cập nhật không thành công.";
+                return "Lỗi: " + ex.Message;
+            }
+        }
+
+        public string DeleteNhanVien(string maNV)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(maNV))
+                {
+                    return "Mã nhân viên không hợp lệ.";
+                }
+
+                DAL_NhanVien.deleteNhanVien(maNV);
+                return string.Empty;
+            }
+            catch (Exception ex)
+            {
+                //return "Xóa không thành công.";
+                return "Lỗi: " + ex.Message;
+            }
+        }
     }
 }

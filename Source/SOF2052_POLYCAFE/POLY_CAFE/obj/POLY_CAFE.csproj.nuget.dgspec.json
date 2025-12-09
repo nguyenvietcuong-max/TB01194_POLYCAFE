@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\POLY_CAFE.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\POLY_CAFE\\POLY_CAFE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj": {
+    "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj",
         "projectName": "BLL_POLYCAFE",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\BLL_POLYCAFE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj"
+              "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj"
               },
-              "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj"
+              "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj": {
+    "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj",
         "projectName": "DAL_POLLYCAFE",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj"
+              "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj"
               }
             }
           }
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
+    "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj",
         "projectName": "DTO_POLYCAFE",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\POLY_CAFE.csproj": {
+    "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\POLY_CAFE\\POLY_CAFE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\POLY_CAFE.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\POLY_CAFE\\POLY_CAFE.csproj",
         "projectName": "POLY_CAFE",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\POLY_CAFE.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\POLY_CAFE\\POLY_CAFE.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\POLY_CAFE\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\POLY_CAFE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,11 +244,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj"
+              "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\BLL_POLYCAFE\\BLL_POLYCAFE.csproj"
               },
-              "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj"
+              "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DTO_POLYCAFE\\DTO_POLYCAFE.csproj"
               }
             }
           }

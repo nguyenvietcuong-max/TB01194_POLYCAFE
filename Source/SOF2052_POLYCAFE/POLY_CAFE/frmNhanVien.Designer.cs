@@ -56,6 +56,7 @@
             dgvDanhSachNhanVien = new Guna.UI2.WinForms.Guna2DataGridView();
             panel1 = new Panel();
             txtTimKiem = new Guna.UI2.WinForms.Guna2TextBox();
+            btnSearchNhanVien = new Button();
             groupBox1.SuspendLayout();
             panel2.SuspendLayout();
             groupBox2.SuspendLayout();
@@ -104,13 +105,13 @@
             rbQuanLy.Name = "rbQuanLy";
             rbQuanLy.Size = new Size(68, 19);
             rbQuanLy.TabIndex = 14;
-            rbQuanLy.TabStop = true;
             rbQuanLy.Text = "Quản Lý";
             rbQuanLy.UseVisualStyleBackColor = true;
             // 
             // rbNhanVien
             // 
             rbNhanVien.AutoSize = true;
+            rbNhanVien.Checked = true;
             rbNhanVien.Location = new Point(124, 271);
             rbNhanVien.Name = "rbNhanVien";
             rbNhanVien.Size = new Size(80, 19);
@@ -136,13 +137,13 @@
             rbDeActive.Name = "rbDeActive";
             rbDeActive.Size = new Size(89, 19);
             rbDeActive.TabIndex = 8;
-            rbDeActive.TabStop = true;
             rbDeActive.Text = "Tạm Ngưng";
             rbDeActive.UseVisualStyleBackColor = true;
             // 
             // rbActive
             // 
             rbActive.AutoSize = true;
+            rbActive.Checked = true;
             rbActive.Location = new Point(124, 10);
             rbActive.Name = "rbActive";
             rbActive.Size = new Size(114, 19);
@@ -195,6 +196,7 @@
             txtMaNhanVien.Name = "txtMaNhanVien";
             txtMaNhanVien.Size = new Size(222, 23);
             txtMaNhanVien.TabIndex = 7;
+            txtMaNhanVien.TextChanged += txtMaNhanVien_TextChanged;
             // 
             // label7
             // 
@@ -256,7 +258,7 @@
             groupBox2.Controls.Add(panel1);
             groupBox2.Location = new Point(373, 64);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(322, 374);
+            groupBox2.Size = new Size(415, 374);
             groupBox2.TabIndex = 2;
             groupBox2.TabStop = false;
             groupBox2.Text = "Danh Sách Nhân Viên";
@@ -285,10 +287,10 @@
             dgvDanhSachNhanVien.DefaultCellStyle = dataGridViewCellStyle3;
             dgvDanhSachNhanVien.Dock = DockStyle.Fill;
             dgvDanhSachNhanVien.GridColor = Color.FromArgb(231, 229, 255);
-            dgvDanhSachNhanVien.Location = new Point(3, 119);
+            dgvDanhSachNhanVien.Location = new Point(3, 69);
             dgvDanhSachNhanVien.Name = "dgvDanhSachNhanVien";
             dgvDanhSachNhanVien.RowHeadersVisible = false;
-            dgvDanhSachNhanVien.Size = new Size(316, 252);
+            dgvDanhSachNhanVien.Size = new Size(409, 302);
             dgvDanhSachNhanVien.TabIndex = 1;
             dgvDanhSachNhanVien.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
             dgvDanhSachNhanVien.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -314,11 +316,12 @@
             // 
             // panel1
             // 
+            panel1.Controls.Add(btnSearchNhanVien);
             panel1.Controls.Add(txtTimKiem);
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(3, 19);
             panel1.Name = "panel1";
-            panel1.Size = new Size(316, 100);
+            panel1.Size = new Size(409, 50);
             panel1.TabIndex = 0;
             // 
             // txtTimKiem
@@ -332,14 +335,23 @@
             txtTimKiem.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
             txtTimKiem.Font = new Font("Segoe UI", 9F);
             txtTimKiem.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtTimKiem.Location = new Point(113, 3);
+            txtTimKiem.Location = new Point(3, 3);
             txtTimKiem.Name = "txtTimKiem";
             txtTimKiem.PasswordChar = '\0';
             txtTimKiem.PlaceholderText = "";
             txtTimKiem.SelectedText = "";
             txtTimKiem.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            txtTimKiem.Size = new Size(200, 36);
+            txtTimKiem.Size = new Size(321, 36);
             txtTimKiem.TabIndex = 0;
+            // 
+            // btnSearchNhanVien
+            // 
+            btnSearchNhanVien.Location = new Point(330, 3);
+            btnSearchNhanVien.Name = "btnSearchNhanVien";
+            btnSearchNhanVien.Size = new Size(75, 36);
+            btnSearchNhanVien.TabIndex = 1;
+            btnSearchNhanVien.Text = "button1";
+            btnSearchNhanVien.UseVisualStyleBackColor = true;
             // 
             // frmNhanVien
             // 
@@ -388,5 +400,6 @@
         private RadioButton rbNhanVien;
         private RadioButton rbDeActive;
         private RadioButton rbActive;
+        private Button btnSearchNhanVien;
     }
 }

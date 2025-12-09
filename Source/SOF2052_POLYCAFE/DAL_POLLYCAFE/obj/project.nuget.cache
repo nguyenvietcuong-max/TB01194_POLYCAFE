@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCDON2eVYYo=",
+  "dgSpecHash": "lVER+hy2AMQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\POLY_CAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\SOF_2052\\TB01194_POLYCAFE\\Source\\SOF2052_POLYCAFE\\DAL_POLLYCAFE\\DAL_POLLYCAFE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

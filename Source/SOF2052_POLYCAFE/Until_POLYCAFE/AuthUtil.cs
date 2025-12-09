@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace Until_POLYCAFE
 {
-    internal class AuthUtil
     {
+    public class AuthUtil
+    {
+        public static NhanVien user = null;
+        public static bool IsLogin()
+        {
+            if (user == null)
+            {
+                return false;
+            }
+            if (string.IsNullOrWhiteSpace(user.MaNhanVien))
+            {
+                return false;
+            }
+            return true;
+        }
     }
 }

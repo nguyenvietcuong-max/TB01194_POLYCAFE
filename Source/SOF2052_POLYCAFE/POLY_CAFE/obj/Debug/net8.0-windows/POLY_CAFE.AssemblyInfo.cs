@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POLY_CAFE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b2514e0f8cc8dfc228ac0d66ed24cb3fbe2bc6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("POLY_CAFE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POLY_CAFE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
