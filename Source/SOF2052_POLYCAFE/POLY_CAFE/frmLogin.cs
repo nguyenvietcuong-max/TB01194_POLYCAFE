@@ -8,15 +8,26 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BLL_POLYCAFE;
+using BLL_POLYCAFE.BLL_PolyCafe;
+using DAL_POLLYCAFE;
 using DTO_POLYCAFE;
 
 namespace POLY_CAFE
 {
     public partial class frmLogin : Form
     {
+        BLL_NhanVien BLL_NhanVien = new BLL_NhanVien();
         public frmLogin()
         {
             InitializeComponent();
+        }
+
+        private void Login_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (e.CloseReason == CloseReason.UserClosing)
+            {
+                e.Cancel = true;
+            }
         }
 
         private void chkShowPassword_CheckedChanged(object sender, EventArgs e)
@@ -47,10 +58,12 @@ namespace POLY_CAFE
                 this.Hide();
             }
         }
+
         private void lbQuenMatKhau_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
 
         }
+
         private void btnExit_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Bạn muốn thoát khỏi chương trình", "Thoát",
@@ -61,16 +74,6 @@ namespace POLY_CAFE
             {
                 Application.Exit();
             }
-        }
-
-        private void frmLogin_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtUsername_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

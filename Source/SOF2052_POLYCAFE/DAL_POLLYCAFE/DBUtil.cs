@@ -107,18 +107,5 @@ namespace DAL_POLLYCAFE
                 throw;
             }
         }
-            private void ClearFrom()
-        {
-            btnThem.Enabled = true;
-            btnSua.Enabled = false;
-            btnXoa.Enabled = true;
-            txtMaNhanVien.Clear();
-            txtHoTen.Clear();
-            txtEmail.Clear();
-            txtMatKhau.Clear();
-            txtXacNhanMK.Clear();
-            rbNhanVien.Checked = true;
-            rbActive.Checked = true;
-        }
     }
 }

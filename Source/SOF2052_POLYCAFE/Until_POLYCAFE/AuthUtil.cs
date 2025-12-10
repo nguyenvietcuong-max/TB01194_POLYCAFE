@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Until_POLYCAFE
 {
-    {
     public class AuthUtil
     {
         public static NhanVien user = null;

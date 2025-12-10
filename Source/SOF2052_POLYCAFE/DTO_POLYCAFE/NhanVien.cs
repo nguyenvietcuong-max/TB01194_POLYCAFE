@@ -14,8 +14,8 @@ namespace DTO_POLYCAFE
         public string MatKhau { get; set; }
         public bool VaiTro { get; set; }
         public bool TrangThai { get; set; }
+
         public string VaiTroText => VaiTro ? "Quản Lý" : "Nhân Viên";
         public string TrangThaiText => TrangThai ? "Đang Hoạt Động" : "Tạm Ngưng";
-
     }
 }

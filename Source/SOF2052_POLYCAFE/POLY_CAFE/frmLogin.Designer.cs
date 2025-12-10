@@ -1,4 +1,7 @@
-﻿namespace POLY_CAFE
+﻿
+using static Guna.UI2.WinForms.Suite.Descriptions;
+
+namespace POLY_CAFE
 {
     partial class frmLogin
     {
@@ -30,94 +33,116 @@
         {
             label1 = new Label();
             label2 = new Label();
-            chkShowPassword = new CheckBox();
             txtUsername = new TextBox();
-            txtPassword = new TextBox();
+            chkShowPassword = new CheckBox();
             btnLogin = new Button();
             btnExit = new Button();
+            txtPassword = new TextBox();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(356, 73);
+            label1.BackColor = Color.Transparent;
+            label1.Font = new Font("Segoe UI", 9F);
+            label1.ForeColor = Color.Maroon;
+            label1.Location = new Point(362, 83);
             label1.Name = "label1";
-            label1.Size = new Size(89, 15);
+            label1.Size = new Size(88, 15);
             label1.TabIndex = 0;
             label1.Text = "Tên Đăng Nhập";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(356, 146);
+            label2.BackColor = Color.Transparent;
+            label2.Font = new Font("Segoe UI", 9F);
+            label2.ForeColor = Color.Maroon;
+            label2.Location = new Point(366, 168);
             label2.Name = "label2";
             label2.Size = new Size(58, 15);
-            label2.TabIndex = 1;
+            label2.TabIndex = 0;
             label2.Text = "Mật Khẩu";
+            // 
+            // txtUsername
+            // 
+            txtUsername.Font = new Font("Segoe UI", 13F);
+            txtUsername.Location = new Point(366, 110);
+            txtUsername.Margin = new Padding(6);
+            txtUsername.Name = "txtUsername";
+            txtUsername.Size = new Size(321, 31);
+            txtUsername.TabIndex = 1;
             // 
             // chkShowPassword
             // 
             chkShowPassword.AutoSize = true;
-            chkShowPassword.Location = new Point(356, 221);
+            chkShowPassword.BackColor = Color.Transparent;
+            chkShowPassword.Font = new Font("Segoe UI", 9F);
+            chkShowPassword.ForeColor = Color.Maroon;
+            chkShowPassword.Location = new Point(366, 238);
             chkShowPassword.Name = "chkShowPassword";
-            chkShowPassword.Size = new Size(125, 19);
-            chkShowPassword.TabIndex = 2;
-            chkShowPassword.Text = "Hiển Thị Mật Khẩu";
-            chkShowPassword.UseVisualStyleBackColor = true;
+            chkShowPassword.Size = new Size(121, 19);
+            chkShowPassword.TabIndex = 3;
+            chkShowPassword.Text = "Hiển thị mật khẩu";
+            chkShowPassword.UseVisualStyleBackColor = false;
             chkShowPassword.CheckedChanged += chkShowPassword_CheckedChanged;
-            // 
-            // txtUsername
-            // 
-            txtUsername.Location = new Point(356, 102);
-            txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(100, 23);
-            txtUsername.TabIndex = 3;
-            txtUsername.TextChanged += txtUsername_TextChanged;
-            // 
-            // txtPassword
-            // 
-            txtPassword.Location = new Point(356, 175);
-            txtPassword.Name = "txtPassword";
-            txtPassword.Size = new Size(100, 23);
-            txtPassword.TabIndex = 4;
             // 
             // btnLogin
             // 
-            btnLogin.BackColor = Color.DodgerBlue;
-            btnLogin.ForeColor = SystemColors.ButtonHighlight;
-            btnLogin.Location = new Point(306, 257);
+            btnLogin.BackColor = SystemColors.MenuHighlight;
+            btnLogin.Font = new Font("Segoe UI", 11F);
+            btnLogin.ForeColor = Color.White;
+            btnLogin.Location = new Point(367, 304);
             btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(232, 55);
-            btnLogin.TabIndex = 5;
+            btnLogin.Size = new Size(320, 45);
+            btnLogin.TabIndex = 4;
             btnLogin.Text = "Đăng Nhập";
             btnLogin.UseVisualStyleBackColor = false;
             btnLogin.Click += btnLogin_Click;
             // 
             // btnExit
             // 
-            btnExit.BackColor = Color.Red;
-            btnExit.ForeColor = SystemColors.ControlLightLight;
-            btnExit.Location = new Point(306, 332);
+            btnExit.BackColor = Color.DarkSalmon;
+            btnExit.Font = new Font("Segoe UI", 11F);
+            btnExit.ForeColor = Color.White;
+            btnExit.Location = new Point(367, 373);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(232, 58);
-            btnExit.TabIndex = 6;
+            btnExit.Size = new Size(320, 45);
+            btnExit.TabIndex = 5;
             btnExit.Text = "Thoát";
             btnExit.UseVisualStyleBackColor = false;
+            btnExit.Click += btnExit_Click;
+            // 
+            // txtPassword
+            // 
+            txtPassword.Font = new Font("Segoe UI", 13F);
+            txtPassword.Location = new Point(367, 190);
+            txtPassword.Margin = new Padding(6);
+            txtPassword.Name = "txtPassword";
+            txtPassword.PasswordChar = '*';
+            txtPassword.Size = new Size(321, 31);
+            txtPassword.TabIndex = 2;
             // 
             // frmLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(764, 492);
             Controls.Add(btnExit);
             Controls.Add(btnLogin);
+            Controls.Add(chkShowPassword);
             Controls.Add(txtPassword);
             Controls.Add(txtUsername);
-            Controls.Add(chkShowPassword);
             Controls.Add(label2);
             Controls.Add(label1);
+            DoubleBuffered = true;
+            MaximumSize = new Size(780, 531);
+            MinimumSize = new Size(780, 531);
             Name = "frmLogin";
-            Text = "frmLogin";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Đăng Nhập";
+            FormClosing += Login_FormClosing;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -126,10 +151,10 @@
 
         private Label label1;
         private Label label2;
-        private CheckBox chkShowPassword;
         private TextBox txtUsername;
-        private TextBox txtPassword;
+        private CheckBox chkShowPassword;
         private Button btnLogin;
         private Button btnExit;
+        private TextBox txtPassword;
     }
 }
