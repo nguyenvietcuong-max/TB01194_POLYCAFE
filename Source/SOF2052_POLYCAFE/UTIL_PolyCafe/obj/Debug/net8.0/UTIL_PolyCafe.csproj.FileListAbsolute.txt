@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\bin\Debug\net8.0\UTIL_PolyCafe.deps.json
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\bin\Debug\net8.0\UTIL_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\bin\Debug\net8.0\UTIL_PolyCafe.pdb
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\bin\Debug\net8.0\DTO_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\bin\Debug\net8.0\DTO_PolyCafe.pdb
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_Pol.DDC24B11.Up2Date
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\refint\UTIL_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\UTIL_PolyCafe.pdb
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\UTIL_PolyCafe\obj\Debug\net8.0\ref\UTIL_PolyCafe.dll

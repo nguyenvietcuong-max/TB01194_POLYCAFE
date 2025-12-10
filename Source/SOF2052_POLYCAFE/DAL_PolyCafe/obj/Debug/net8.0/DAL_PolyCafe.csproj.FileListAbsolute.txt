@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\bin\Debug\net8.0\DAL_PolyCafe.deps.json
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\bin\Debug\net8.0\DAL_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\bin\Debug\net8.0\DAL_PolyCafe.pdb
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\bin\Debug\net8.0\DTO_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\bin\Debug\net8.0\DTO_PolyCafe.pdb
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_Poly.73250164.Up2Date
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\refint\DAL_PolyCafe.dll
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\DAL_PolyCafe.pdb
+C:\Users\Admin\OneDrive\Documents\TB01194_POLYCAFE\Source\SOF2052_POLYCAFE\DAL_PolyCafe\obj\Debug\net8.0\ref\DAL_PolyCafe.dll
